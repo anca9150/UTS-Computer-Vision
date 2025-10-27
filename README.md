@@ -1,4 +1,4 @@
-# UTS-Computer-Vision
+# UTS Computer Vision
 ## Nama : Muhammad Panca Prasetya
 ## NIM : 43050230001
 
